@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 from tkFileDialog import *
 
 filename = None
@@ -15,12 +15,12 @@ def saveFile():
     f.write(t)
     f.close()
     
-def save As():
+def saveAs():
     f = asksaveasfile(mode = 'w', defaultextension='.text')
     t = text.get(0.0, END)
     try:
         f.write(t.rstrip())
-        except:
+    except:
             showerror(title ="Oops!", message="Unable to save text file......")
             
 def openFile():
@@ -34,7 +34,7 @@ root.title("My Python Text Editor")
 root.minsize(width=400,height=400)
 root.maxsize(width=400,height=400)
 
-text= Text(root,width=400 height=400)
+text=Text(root,width=400,height=400)
 text.pack()
 
 menubar= Menu(root)
