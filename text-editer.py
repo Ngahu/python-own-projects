@@ -11,3 +11,10 @@ def newFile():
 def saveFile():
     global filename
     t = text.get(0.0, END)
+    f = open(filename, 'w')
+    f.write(t)
+    f.close()
+    
+def saveAs():
+    f = asksaveasfile(mode = 'w', defaultextension='.text')
+    t = text.get(0.0, END)
