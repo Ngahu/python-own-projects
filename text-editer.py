@@ -15,6 +15,16 @@ def saveFile():
     f.write(t)
     f.close()
     
-def saveAs():
+def save As():
     f = asksaveasfile(mode = 'w', defaultextension='.text')
     t = text.get(0.0, END)
+    try:
+        f.write(t.rstrip())
+        except:
+            showerror(title ="Oops!", message="Unable to save text file......")
+            
+def openFile():
+    f = askopenfile(mode='r')
+    t = f.read()
+    text.delete(0.0, END)
+    text.insert(0.0, t)
