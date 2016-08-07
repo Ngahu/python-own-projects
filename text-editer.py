@@ -30,7 +30,7 @@ def openFile():
     text.insert(0.0, t)
     
 root = Tk()
-root.title("My Python Text Editor")
+root.title("@Pruel Think.Define.Design")
 root.minsize(width=400,height=400)
 root.maxsize(width=400,height=400)
 
