@@ -5,7 +5,7 @@
     Its link is:https://github.com/Ngahu/python-programs/blob/master/password.py<br>
     Contibuters:Ngahu Ng'ang'a
 
-Second Project:Text editor
+####Second Project:Text editor
     This is a program where am making  text editor that one can use to code basically<br>
     Its link is:https://github.com/Ngahu/python-programs/blob/master/text-editer.py<br>
     Contributers:ngahu Ng'ang'a
