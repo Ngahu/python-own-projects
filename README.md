@@ -1,8 +1,8 @@
 # Project Name:Python Programs 
 ### Project Details:This repo contains different programs that i have done 
 ####First Project: Pasword Generator
-    This is a password generator program that generates different programs every time it is run <br>
-    Its link is:https://github.com/Ngahu/python-programs/blob/master/password.py<br>
+    This is a password generator program that generates different programs every time it is run 
+    Its link is:https://github.com/Ngahu/python-programs/blob/master/password.py 
     Contibuters:Ngahu Ng'ang'a
 
 ####Second Project:Text editor
