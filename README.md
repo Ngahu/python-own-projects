@@ -1,4 +1,15 @@
 # Project Name:Python Programs 
-Project details:it is a project of random pasword generator
-Tools:Python
-Contirbuters:Ngahu Ng'ang'a
+### Project Details:This repo contains different programs that i have done 
+First Project: Pasword Generator
+    This is a password generator program that generates different programs every time it is run 
+    Its link is:https://github.com/Ngahu/python-programs/blob/master/password.py
+    Contibuters:Ngahu Ng'ang'a
+
+Second Project:Text editor
+    This is a program where am making  text editor that one can use to code basically
+    Its link is:https://github.com/Ngahu/python-programs/blob/master/text-editer.py
+    Contributers:ngahu Ng'ang'a
+
+##### Tools used:Python 
+
+Contributers:Ngahu Ng'ang'a
