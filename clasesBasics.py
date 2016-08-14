@@ -1,3 +1,5 @@
-class Likii:
-    pass
-y = Likii()
+class Ph:
+    def printHam(self):
+        print 'ham'
+x = Ph()
+x.printHam()
