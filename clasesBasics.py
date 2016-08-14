@@ -1,5 +1,5 @@
 class Ph:
-    def printHam(self):
+    def printHam():
         print 'ham'
 x = Ph()
 x.printHam()
