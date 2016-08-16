@@ -30,3 +30,26 @@ while to_be_guessed > p1:
         break
 f = int(input("please enter your dick"))
 form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
+form = 
