@@ -1,9 +1,248 @@
-menbers = {"dad":32,"mum":30,"siz":49,"bro":42}
-print "hehehehe too funny "
-
-def my_file ():
-    if my_file < 10:
-        print "jambo"
-        return ()
-form = raw_input("please fill in")
-        
+how = 23
+viv = int(input("Please input an integer"))
+while viv =>how:
+    print "the number is big please try again"
+    
+    
+    
+    p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")   p1 = 23
+to_be_guessed = int(input("Please isert your number here"))
+while to_be_guessed > p1:
+    print  "number too big"
+    if to_be_guessed < p1 :
+        print "number too small"
+        break
+f = int(input("please enter your dick"))
+form = raw_input("plese input")
