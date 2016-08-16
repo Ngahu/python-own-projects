@@ -4,4 +4,6 @@ print "hehehehe too funny "
 def my_file ():
     if my_file < 10:
         print "jambo"
-        return
+        return ()
+form = raw_input("please fill in")
+        
