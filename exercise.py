@@ -3,8 +3,24 @@ from functools import reduce
 
 def multiply(*args):
     return reduce(mul, args)
-def print_three(a, b, c):
-    print(a, b, c)
+ multiply (3, 5, 1, 5)def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
 def print_table(**kwargs):
     for key, value in kwargs.items():
         print(key, value)
