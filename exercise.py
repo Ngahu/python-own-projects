@@ -8,3 +8,24 @@ def print_three(a, b, c):
 def print_table(**kwargs):
     for key, value in kwargs.items():
         print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
