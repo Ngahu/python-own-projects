@@ -29,3 +29,99 @@ def print_table(**kwargs):
 def print_table(**kwargs):
     for key, value in kwargs.items():
         print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
+def print_table(**kwargs):
+    for key, value in kwargs.items():
+        print(key, value)
