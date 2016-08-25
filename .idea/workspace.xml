@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9033f504-258f-47f6-bf36-b85e5750517a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classes.py" afterPath="$PROJECT_DIR$/classes.py" />
     </list>
     <ignored path="python programs.iws" />
@@ -26,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/classes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="354">
-              <caret line="182" column="55" selection-start-line="182" selection-start-column="55" selection-end-line="182" selection-end-column="55" />
+              <caret line="1443" column="55" selection-start-line="1443" selection-start-column="55" selection-end-line="1443" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -320,7 +321,7 @@
     <entry file="file://$PROJECT_DIR$/classes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
-          <caret line="182" column="55" selection-start-line="182" selection-start-column="55" selection-end-line="182" selection-end-column="55" />
+          <caret line="1443" column="55" selection-start-line="1443" selection-start-column="55" selection-end-line="1443" selection-end-column="55" />
           <folding />
         </state>
       </provider>
