@@ -1,5 +1,33 @@
-class MyClass:
-    variable = "blah"
+rom
+datetime
+import datetime
 
-    def function(self):
-        print "This is a message inside the class."
+from flask import (
+    Flask,
+    abort,
+    flash,
+    redirect,
+    render_template,
+    request,
+    url_for,
+)
+from flask.ext.stormpath import (
+    StormpathError,
+    StormpathManager,
+    User,
+    login_required,
+    login_user,
+    logout_user,
+    user,
+)
+
+app = Flask(__name__)
+app.config['DEBUG'] = True
+app.config['SECRET_KEY'] = 'some_really_long_random_string_here'
+app.config['STORMPATH_API_KEY_FILE'] = 'apiKey.properties'
+app.config['STORMPATH_APPLICATION'] = 'flaskr'
+
+stormpath_manager = StormpathManager(app)
+
+if __name__ == '__main__':
+    app.run()
