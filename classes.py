@@ -1,65 +1,35 @@
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
 { % extends
 "layout.html" %}
 { % block
 body %}
-{ % if user.email %}
+< h2 > Login < / h2 >
+{ % if error %}
+< p
+
+
+class ="error" > < strong > Error:<
+
+    / strong > {{error}}
+{ % endif %} < / p >
 
 < form
-
-
-class ="add-entry" action="{{ url_for('add_post') }}" method="post" >
-
+action = "{{ url_for('login') }}"
+method = "post" >
 < dl >
-< dt > Title: < / dt >
-< dd > < input
-size = "30"
-type = "text" / > < / dd >
-< dt > Text: < / dt >
-< dd > < textarea
-cols = "40"
-name = "text"
-rows = "5" > < / textarea > < / dd >
-< dd > < input
-type = "submit"
-value = "Share" / > < / dd >
+< dt > Email: < / dt >
 < / dl >
-< / form > { % endif %}
-< ul
+< / form > < input
+name = "email"
+type = "text" / >
 
+Password:
 
-class ="entries" > {% for post in posts %}
+< input
+name = "password"
+type = "password" / >
 
-< li >
-< h2 > {{post['title']}} < / h2 >
-{{post['text'] | safe}}
-{ % else %} < / li >
-< li > < em > Unbelievable.No
-posts
-here
-so
-far! < / em >
-{ % endfor %} < / li >
-< / ul >
+< input
+type = "submit"
+value = "Login" / >
+
 { % endblock %}
