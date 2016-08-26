@@ -13,37 +13,53 @@
 13
 14
 15
-< !doctype
-html >
-Flaskr
-< div
-
-
-class ="page" >
-
-< h1 > Flaskr < / h1 >
-< div
-
-
-class ="metanav" > {% if user.email %}
-
-< a
-href = "{{ url_for('logout') }}" > log
-out < / a >
-{ % else %}
-< a
-href = "{{ url_for('login') }}" > log in < / a >
-{ % endif %} < / div >
-{ %
-for message in get_flashed_messages() %}
-< div
-
-
-class ="flash" > {{message}} < / div >
-
-
-{ % endfor %}
+16
+17
+18
+19
+20
+21
+22
+{ % extends
+"layout.html" %}
 { % block
-body %}{ % endblock %}
+body %}
+{ % if user.email %}
 
-< / div >
+< form
+
+
+class ="add-entry" action="{{ url_for('add_post') }}" method="post" >
+
+< dl >
+< dt > Title: < / dt >
+< dd > < input
+size = "30"
+type = "text" / > < / dd >
+< dt > Text: < / dt >
+< dd > < textarea
+cols = "40"
+name = "text"
+rows = "5" > < / textarea > < / dd >
+< dd > < input
+type = "submit"
+value = "Share" / > < / dd >
+< / dl >
+< / form > { % endif %}
+< ul
+
+
+class ="entries" > {% for post in posts %}
+
+< li >
+< h2 > {{post['title']}} < / h2 >
+{{post['text'] | safe}}
+{ % else %} < / li >
+< li > < em > Unbelievable.No
+posts
+here
+so
+far! < / em >
+{ % endfor %} < / li >
+< / ul >
+{ % endblock %}
