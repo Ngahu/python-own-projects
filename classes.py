@@ -1,40 +1,49 @@
-@app.route('/')
-def show_posts():
-    posts = []
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+< !doctype
+html >
+Flaskr
+< div
 
 
-for account in stormpath_manager.application.accounts:
-    if account.custom_data.get('posts'):
-        posts.extend(account.custom_data['posts'])
+class ="page" >
 
-posts = sorted(posts, key=lambda k: k['date'], reverse=True)
-return render_template('show_posts.html', posts=posts)
+< h1 > Flaskr < / h1 >
+< div
 
 
-@app.route('/add', methods=['POST'])
-@login_required
-def add_post():
-    if not user.custom_data.get('posts'):
-        user.custom_data['posts'] = []
+class ="metanav" > {% if user.email %}
+
+< a
+href = "{{ url_for('logout') }}" > log
+out < / a >
+{ % else %}
+< a
+href = "{{ url_for('login') }}" > log in < / a >
+{ % endif %} < / div >
+{ %
+for message in get_flashed_messages() %}
+< div
 
 
-user.custom_data['posts'].append({
-    'date': datetime.utcnow().isoformat(),
-    'title': request.form['title'],
-    'text': request.form['text'],
-})
-user.save()
-
-flash('New post successfully added.')
-return redirect(url_for('show_posts'))
+class ="flash" > {{message}} < / div >
 
 
-@app.route('/login', methods=['GET', 'POST'])
-def login():
-    error = None
+{ % endfor %}
+{ % block
+body %}{ % endblock %}
 
-
-if request.method == 'POST':
-    try:
-        _user = User.from_login(
-            request.form['email'],
+< / div >
